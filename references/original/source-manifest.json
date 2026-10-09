@@ -1,0 +1,1140 @@
+{
+  "repository": "eternity4719/HowToLiveBetter",
+  "commit": "2ad14690851994a0e1f45d6dc9b5a9d6aa1579a9",
+  "retrieved_at": "2026-10-09T02:53:28.128064+00:00",
+  "chapters": 34,
+  "items": 675,
+  "chapter_item_counts": {
+    "01-不要早死.md": 43,
+    "02-不要慢慢死.md": 44,
+    "03-不要浪费精力.md": 25,
+    "04-不要浪费时间.md": 18,
+    "05-不要浪费钱.md": 46,
+    "06-反面清单.md": 30,
+    "07-没钱的时候怎么活.md": 22,
+    "08-别把自己搭进去.md": 46,
+    "09-普通人容易踩的法律红线.md": 26,
+    "10-恋爱和结婚划不划算.md": 20,
+    "11-程序员和技术人容易踩的红线.md": 19,
+    "12-创业与做生意.md": 24,
+    "13-紧急情况.md": 44,
+    "14-账号与信息安全.md": 10,
+    "15-租房与买房.md": 9,
+    "16-得了慢性病之后怎么活.md": 9,
+    "17-家里有老人.md": 10,
+    "18-养孩子划不划算.md": 6,
+    "19-在职离职和工伤.md": 19,
+    "20-刚出生的孩子怎么带.md": 14,
+    "21-出国旅行与境外安全.md": 11,
+    "22-怎么放松.md": 10,
+    "23-学什么技能划算.md": 23,
+    "24-看病.md": 12,
+    "25-人走了以后要办什么.md": 10,
+    "26-做一个网站或平台.md": 11,
+    "27-怀孕和生产.md": 17,
+    "28-别为了外形把身体搞坏.md": 9,
+    "29-遭遇重大打击之后.md": 13,
+    "30-上学以后的孩子.md": 18,
+    "31-十八岁之后有哪几条路.md": 16,
+    "32-出国留学.md": 10,
+    "33-残疾之后怎么活.md": 20,
+    "34-家里的常备药别吃出事.md": 11
+  },
+  "content_license": "CC BY 4.0",
+  "original_files_modified": false,
+  "files": [
+    {
+      "path": "LICENSE",
+      "bytes": 18657,
+      "git_blob_sha": "da6ab6cc8f333d7e89a99812866df8f24374d47c",
+      "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411"
+    },
+    {
+      "path": "LICENSE-CODE",
+      "bytes": 1069,
+      "git_blob_sha": "949d610ab809da6a016a07a4cb97ce3dce59e32a",
+      "sha256": "b5637b996d72e74dac01e8799701ff6440b5a979cd15a29ac120e7ae57963c67"
+    },
+    {
+      "path": "README.md",
+      "bytes": 48772,
+      "git_blob_sha": "4b74ad2c759ed2e595e80ff4d3ed06e3a9c2f079",
+      "sha256": "a5304e22e3dfd932016321c58028533fc99cc89519102f19a202bd08b66ac7f5"
+    },
+    {
+      "path": "book/01-不要早死.md",
+      "bytes": 108957,
+      "git_blob_sha": "7294f3ce02868a31edd03683f9be5d1905e09bfd",
+      "sha256": "4ee6c2c0c2472c1afb7a403ba0a114c62e43e3879774dcd76837752837312bd2"
+    },
+    {
+      "path": "book/02-不要慢慢死.md",
+      "bytes": 102891,
+      "git_blob_sha": "2ed26d30ba836e7d43c435e2fedc44fcbb70a171",
+      "sha256": "11cc16bc78bc5962ca70038dd087855fbf0442fd283767272e2a0f66829ea011"
+    },
+    {
+      "path": "book/03-不要浪费精力.md",
+      "bytes": 52266,
+      "git_blob_sha": "b0774989c309a083691c434e9353c57532dd243e",
+      "sha256": "c22c532d708cbd4b44bc25c6d7e1f1b133049570f8ae487ffac411aa6045198f"
+    },
+    {
+      "path": "book/04-不要浪费时间.md",
+      "bytes": 29368,
+      "git_blob_sha": "7ed18a11f9241c1da1c2d06eb300fd3d6fb70b2e",
+      "sha256": "f5c9ff7caf35ead52af847b42824165538a7d6edcb26db0562eab90de42a74bb"
+    },
+    {
+      "path": "book/05-不要浪费钱.md",
+      "bytes": 127469,
+      "git_blob_sha": "fb72c5d3396e3f4ff02850eab84a4f13d064bfe2",
+      "sha256": "1d1b3163141ce0052cd69f646f3e0452b945a53c22bdd09121e8543662a60439"
+    },
+    {
+      "path": "book/06-反面清单.md",
+      "bytes": 96932,
+      "git_blob_sha": "90779f6584e883a8605f01537d97bbc0dbfe286e",
+      "sha256": "3a4b55098149fbd4b094d5e071c1035c96cb5f020b219fed012b05255cd7bd6d"
+    },
+    {
+      "path": "book/07-没钱的时候怎么活.md",
+      "bytes": 59820,
+      "git_blob_sha": "418dcf1d8d1c404dc47586ffd04c3b260758686e",
+      "sha256": "fa18535cc783d927ce180dc0f83d179b786eabfa2fa30e4fe6fa52608b676395"
+    },
+    {
+      "path": "book/08-别把自己搭进去.md",
+      "bytes": 147742,
+      "git_blob_sha": "0e463751675cb6264f42bf8a922027700bc59d73",
+      "sha256": "d09dfb8b1403809fc95b675520808cd6eaba4808ab5e0a17623564c720b0cf91"
+    },
+    {
+      "path": "book/09-普通人容易踩的法律红线.md",
+      "bytes": 88366,
+      "git_blob_sha": "7ee997f2a3fa48742cf83186c4b0fa48ab77c441",
+      "sha256": "21f153fcf778958473821dc78cf717b03aafb75f9b4d5e77f7edc2141b2302f4"
+    },
+    {
+      "path": "book/10-恋爱和结婚划不划算.md",
+      "bytes": 50006,
+      "git_blob_sha": "a44ecc6e79fcd22d854e412f94d85a8901a5a974",
+      "sha256": "85100e1e51180fee476f41193dd35635cc1f69a7fbd2ba30837098915f6f488f"
+    },
+    {
+      "path": "book/11-程序员和技术人容易踩的红线.md",
+      "bytes": 51092,
+      "git_blob_sha": "413af9eff488aa31d103a211bf8baacccded8cbe",
+      "sha256": "6f1fe318cffa49f191bc54709802d897e0138b5820def3f69309cc9bcd35c457"
+    },
+    {
+      "path": "book/12-创业与做生意.md",
+      "bytes": 72392,
+      "git_blob_sha": "090c9dd4c9e91e6595ea420f9341f224d0377f95",
+      "sha256": "87ed506b8860530929c4df1fbc1891d56870855f2c9c0554a993c3070ebb3db0"
+    },
+    {
+      "path": "book/13-紧急情况.md",
+      "bytes": 116840,
+      "git_blob_sha": "fa65d60fb411e57125b1f1d5095b97c652e95be2",
+      "sha256": "3ca37784a4faecbe700dedee97a92761408b2d4b3fd6db309b95d1c6a20444c3"
+    },
+    {
+      "path": "book/14-账号与信息安全.md",
+      "bytes": 20278,
+      "git_blob_sha": "b330bd2684d3ee933b79c2f3a98bd1d7b806d5b5",
+      "sha256": "7fa7b701b72eb85914cda0953ae85a86e2a275cba51f020a22db9897aa54a6a8"
+    },
+    {
+      "path": "book/15-租房与买房.md",
+      "bytes": 13117,
+      "git_blob_sha": "a4d152b3533a99b3ace0e4f9ec8feb75f22e2273",
+      "sha256": "61081850c448856d7a2ba8acb0c6ea7c00318ce7f93b03373bec2db0936f2ad4"
+    },
+    {
+      "path": "book/16-得了慢性病之后怎么活.md",
+      "bytes": 19849,
+      "git_blob_sha": "cb3747c0d2495e320070957d8ca17132592559e5",
+      "sha256": "6d997cf1068c123a58e296eb7d4b74f9ef619d2790049a66eb3a217129ee76d2"
+    },
+    {
+      "path": "book/17-家里有老人.md",
+      "bytes": 28706,
+      "git_blob_sha": "5655a528b623f62dba28911ea4108b210af1c436",
+      "sha256": "fcfa891bcea6fb3f451f6081035f66c9dfc99d71040289fb1ae1e53e00d2804e"
+    },
+    {
+      "path": "book/18-养孩子划不划算.md",
+      "bytes": 7524,
+      "git_blob_sha": "d34366b560b1bc287a2974e83e9c77e57e5b458d",
+      "sha256": "72ae66e46dce8993a4743d9441a59749dec46d24077f6374c0bafd44ba6ed606"
+    },
+    {
+      "path": "book/19-在职离职和工伤.md",
+      "bytes": 47321,
+      "git_blob_sha": "8081abf4780fab7b8bb16242b79b1b639245441e",
+      "sha256": "683e44a5cf310680e2ad4aab0664ba9a3b28b6622a09d4358c7a083a1479d1bf"
+    },
+    {
+      "path": "book/20-刚出生的孩子怎么带.md",
+      "bytes": 31461,
+      "git_blob_sha": "db3c6898fca276aecc747fa938c58a970abfe6a5",
+      "sha256": "4eb732d82da9c6f041970c14f75a3a0de618d79054db7c82100bd3a15d41f314"
+    },
+    {
+      "path": "book/21-出国旅行与境外安全.md",
+      "bytes": 22961,
+      "git_blob_sha": "faf630ee684725d496be83b8f1c584273e5b77d1",
+      "sha256": "1eb5647d942c34e194ec1627d0a650155ed608493430a1c011000886917045e2"
+    },
+    {
+      "path": "book/22-怎么放松.md",
+      "bytes": 20274,
+      "git_blob_sha": "30c7e55100fdbe2a97ac1ba77d268876e9c65c01",
+      "sha256": "26b30bcdd1d5173fc3e0f24d5f903ceab3d5d51874b118ceddc8dd38494a61e0"
+    },
+    {
+      "path": "book/23-学什么技能划算.md",
+      "bytes": 55072,
+      "git_blob_sha": "815b282afa0b47553cfcbec15e74702ec0c70831",
+      "sha256": "415ee831c0def1d6aa78db43f6148460f7c6774c5bd6e7c896ff5784921c945d"
+    },
+    {
+      "path": "book/24-看病.md",
+      "bytes": 33742,
+      "git_blob_sha": "dbad896ab6d5f02684687f7ae2349270277e4165",
+      "sha256": "2576eae4fdeb21f43da1efdcc609d4cbe325ff182500142de752bd1f5471eeee"
+    },
+    {
+      "path": "book/25-人走了以后要办什么.md",
+      "bytes": 23615,
+      "git_blob_sha": "d38558c87fc1fdf22082a8e55d1143ce1f60ad7b",
+      "sha256": "9e1bc9d2e8ad3e3a22bed8cc909b4dc4d1ee0c33d2d85e3d2164534d09712c89"
+    },
+    {
+      "path": "book/26-做一个网站或平台.md",
+      "bytes": 34569,
+      "git_blob_sha": "7a44522b41bc02a950de12869f966f76432112c1",
+      "sha256": "a9da7f7b194ea4120ab92e437a2ce45f0cc965536de00a2af9162d86c63ad6a3"
+    },
+    {
+      "path": "book/27-怀孕和生产.md",
+      "bytes": 33149,
+      "git_blob_sha": "9a6c6e31928685f8c935027798435fd9a775b6b3",
+      "sha256": "71843bc6eaa1098ceede686f25d0c0029d1356bb0fb66cc59cc9798002b9aef3"
+    },
+    {
+      "path": "book/28-别为了外形把身体搞坏.md",
+      "bytes": 24447,
+      "git_blob_sha": "a03d23508da8b6415efa1a7c90369bca252811a9",
+      "sha256": "341a8ab62ab5552b72825f8f5d9d8088186716802e4d6341055193ecc32c1a0d"
+    },
+    {
+      "path": "book/29-遭遇重大打击之后.md",
+      "bytes": 33518,
+      "git_blob_sha": "2ed58a2e41e1547ca4ef4f6acfbaf0794f260782",
+      "sha256": "f79fd6b7b960fe9bcc6f4ba016978a8a3911156a3e28d8d13aa99246787f3cfc"
+    },
+    {
+      "path": "book/30-上学以后的孩子.md",
+      "bytes": 52393,
+      "git_blob_sha": "e76588e6c9a6fd13675174d7f53043353b005e9e",
+      "sha256": "5920cfe68488168b36d9bb860e78126e2f8f4341adc32618f76007234a9d3f46"
+    },
+    {
+      "path": "book/31-十八岁之后有哪几条路.md",
+      "bytes": 69823,
+      "git_blob_sha": "ed1e96818aec7cdc1fa3c05b4230df87193f87bd",
+      "sha256": "01949e3b6f78cca8896741c02d998e6c1ce93659b218e2ffdc29f3ca7f0f63e4"
+    },
+    {
+      "path": "book/32-出国留学.md",
+      "bytes": 18396,
+      "git_blob_sha": "ca5bad3f4736a01262f905ea2b9fbb562b13b8b3",
+      "sha256": "4a804908370c5a376475da4b47e2d9ed7850ac1d3a14e9201aaaa48edf3c070c"
+    },
+    {
+      "path": "book/33-残疾之后怎么活.md",
+      "bytes": 52646,
+      "git_blob_sha": "1c0a5e308e4ed8dd1916ce595a1c5db09e369137",
+      "sha256": "a311ed69d6d36d61fd929c033db3f30e77d5348eb09ec2c1d0ad5acc64383bb3"
+    },
+    {
+      "path": "book/34-家里的常备药别吃出事.md",
+      "bytes": 27095,
+      "git_blob_sha": "0ee89b6717fe7a2558e1b4655684d16e2b2f90ba",
+      "sha256": "b7ee004103464ab3b008936d949a58c8da95baee01353f290a3da0110587c534"
+    },
+    {
+      "path": "docs/做平台要办哪些证.md",
+      "bytes": 9338,
+      "git_blob_sha": "0e635d052ed9e8aaa8474e387338c95aa3db6404",
+      "sha256": "219d9d4532269b5df38c3c037ff9558bc84942209567fad99b13b1ff69e1de2f"
+    },
+    {
+      "path": "docs/刚确诊慢性病之后.md",
+      "bytes": 6097,
+      "git_blob_sha": "33a6d695139d7fa66baad1137c0d0cd5bc7db3b9",
+      "sha256": "274961eadbcf06cc3b109a85c957ecea90876c9e06397926731171d29e4e1e51"
+    },
+    {
+      "path": "docs/孩子出生前后要办的事.md",
+      "bytes": 6151,
+      "git_blob_sha": "362895934d1ee1965a8dd714dd43b87b02d2cae0",
+      "sha256": "0e421bb812e63f86805ece55d229e165c3375507fd1d85de9381036e47e2e110"
+    },
+    {
+      "path": "docs/家庭应急装备清单.md",
+      "bytes": 14258,
+      "git_blob_sha": "d06889dd21d206dc822a5f147477d28194478738",
+      "sha256": "c6975a4d0de944d9b5969e6fd6ae5c6bff812f6c51272a595614b55876caff03"
+    },
+    {
+      "path": "docs/引用对照.md",
+      "bytes": 267976,
+      "git_blob_sha": "b026db835c4ae632c3e6335f647e51a315f287ed",
+      "sha256": "669c957e28a2aa84743e44786e39a43115075bf9e6ea1ed77e9c036f2d24ee7c"
+    },
+    {
+      "path": "docs/换工作、换城市之前.md",
+      "bytes": 12218,
+      "git_blob_sha": "2f67d12f8bc633de13ecfb50d9c4027caa9f86c6",
+      "sha256": "a7bbb05fd55dff021fa1a45ec896858fcd5d153bd49b92922156dff798d5ab0c"
+    },
+    {
+      "path": "docs/核实记录/01-不要早死.md",
+      "bytes": 14110,
+      "git_blob_sha": "be65e4afaf9e00e010aac91d5bcce2ceb1a7d9a8",
+      "sha256": "9a7471bfd49bfdb23c8e55851a654bb1d0cc1e0e9f10f81a853e8ada7b824f76"
+    },
+    {
+      "path": "docs/核实记录/02-不要慢慢死.md",
+      "bytes": 17817,
+      "git_blob_sha": "fffe3846cd215dfa44c2b20a06576f63c5d6e553",
+      "sha256": "880e0b4f65cc37be39266c79c5c655276d0911fcd1623cadc71f918323c1c8b1"
+    },
+    {
+      "path": "docs/核实记录/03-不要浪费精力.md",
+      "bytes": 18998,
+      "git_blob_sha": "97f8e7d0a8657925788c86e4d028fc400046d6c2",
+      "sha256": "2d11ab4d31fddd120424066e547c41707e7c3f7b5e3b8a8d6040a52c03584294"
+    },
+    {
+      "path": "docs/核实记录/04-不要浪费时间.md",
+      "bytes": 15455,
+      "git_blob_sha": "68f789cc5c40d421483638f3c6d3939e0dd2de3c",
+      "sha256": "a634678d1f9537cec321c1c2bc7bc823da4e3e895d21762e27ca942e6d8580a4"
+    },
+    {
+      "path": "docs/核实记录/05-不要浪费钱.md",
+      "bytes": 19991,
+      "git_blob_sha": "fa65cb5894bb4a5f1727e3cc075ab8f2326291ae",
+      "sha256": "80141bad3aa24e79bd7864d797e1919bd8d75609735c6d881d93c5fdcd9cb010"
+    },
+    {
+      "path": "docs/核实记录/06-反面清单.md",
+      "bytes": 17548,
+      "git_blob_sha": "9bb5f57373dd2b4650325d39f9b985a77eec4eca",
+      "sha256": "a3228b3318e5fe61850d4265db4e7f9aa1ecd813d3bdf0ae7b4efa18a6b314c5"
+    },
+    {
+      "path": "docs/核实记录/07-劳动仲裁条重写.md",
+      "bytes": 11621,
+      "git_blob_sha": "e53cdcbf6c9c2160e9f87ab93e87da45a1e2a330",
+      "sha256": "6577ddc9417493a78c8409c1a5401a1f7f4df1a2866abaa91411a5f765bf7f08"
+    },
+    {
+      "path": "docs/核实记录/07-没钱的时候怎么活.md",
+      "bytes": 23611,
+      "git_blob_sha": "ecce059cc336b87e8f7a83f7b73aa30798452670",
+      "sha256": "61df1b2bd9238a175b58f9451a7cd8c308d6c135cead993404cab782a2a8dada"
+    },
+    {
+      "path": "docs/核实记录/08-别把自己搭进去.md",
+      "bytes": 24580,
+      "git_blob_sha": "233e35fee37c37762782d8594ee3ed8772fa0d43",
+      "sha256": "f081795bea51df07ff16f31cf2c77d5bbd11dc51ceade4038e80a9f06d963299"
+    },
+    {
+      "path": "docs/核实记录/09-普通人容易踩的法律红线.md",
+      "bytes": 24445,
+      "git_blob_sha": "f42547602337544de8591df9605b12df7caf509f",
+      "sha256": "df7b092a124a6295cfc819f668f830c1d122ab4ab3f28cf0550739a956d369a6"
+    },
+    {
+      "path": "docs/核实记录/10-21-23-恋爱出国娱乐减压与技能.md",
+      "bytes": 21418,
+      "git_blob_sha": "fe5acd35bcebfa013dd4d8bba06ee84735eab2f9",
+      "sha256": "a5c674565a64d882d32e9f916f6cbef52dc7d382ee9436444be1e8c2abe83297"
+    },
+    {
+      "path": "docs/核实记录/10-结婚划不划算.md",
+      "bytes": 13520,
+      "git_blob_sha": "ae55020fc130c2dfe398a8b1d0acd4d2d31f0ec2",
+      "sha256": "fc7b1711b0420cc5d19ba92992aac6966c922d3681105b0da473d3be3ccae943"
+    },
+    {
+      "path": "docs/核实记录/11-程序员红线.md",
+      "bytes": 24376,
+      "git_blob_sha": "0bb9b17c42c93c854a9b5b765e61183c5faada09",
+      "sha256": "86897ae767aa381a7fbfa8f6a8585de8a32bd39160260d618f7423b4df7f253a"
+    },
+    {
+      "path": "docs/核实记录/12-创业与做生意.md",
+      "bytes": 23000,
+      "git_blob_sha": "e515d89c437ee7866d5d4b7f7dc3606900220395",
+      "sha256": "28b21a83d7263e691a52470ce5ba92a600486249481df008542b36bc49ec3538"
+    },
+    {
+      "path": "docs/核实记录/13-急救与野外补充.md",
+      "bytes": 9301,
+      "git_blob_sha": "af7ce4e9696309518766367c8f052435967555a2",
+      "sha256": "514062beecf90c1f060954662f6580d98dddcc4a5b64f1f9265acca7d71d3331"
+    },
+    {
+      "path": "docs/核实记录/13-紧急情况.md",
+      "bytes": 23702,
+      "git_blob_sha": "1f8eaab5d042f5d0022f843175239452035876bc",
+      "sha256": "f0e23003e1e187c79a8e6ed524ed3f1373abc8fdd19de02c9ab27c0b1dd8ac96"
+    },
+    {
+      "path": "docs/核实记录/14-19-新增章节与HowToLiveLonger合入.md",
+      "bytes": 12682,
+      "git_blob_sha": "bc21b71788153a7d4f96f67e483aa959f1fef3b4",
+      "sha256": "110fe624dba9315a18f14dd096a90ce597a287872f4fb7b5f9f9ea375fbc0b9f"
+    },
+    {
+      "path": "docs/核实记录/19-工伤.md",
+      "bytes": 5290,
+      "git_blob_sha": "857e85e0cbe59caa8d4fee1d3921d1b4c21326bd",
+      "sha256": "1759f014080d2f05809cef59e515d2678627ee6012658129cf130fcd2d8cd350"
+    },
+    {
+      "path": "docs/核实记录/24-25-看病与身后事.md",
+      "bytes": 7370,
+      "git_blob_sha": "ab928c9743ebf6b01b9026b57eb8902b07487d97",
+      "sha256": "479fff09eaee7f5cc42f9d844daa9f33a30fea2dceb394044da56f461f0c9bcc"
+    },
+    {
+      "path": "docs/核实记录/27-怀孕和生产与艾滋病预防阻断.md",
+      "bytes": 16679,
+      "git_blob_sha": "bb558e2efe80c114bfae5c4adb5d45a63b722088",
+      "sha256": "3f60cd0414ccc9da4cd06872c0e1d7d076470f3efb252769fc4ee8ec06232747"
+    },
+    {
+      "path": "docs/核实记录/28-别为了外形把身体搞坏.md",
+      "bytes": 19661,
+      "git_blob_sha": "fcceff58b04294691169bbd0927274c290306cd5",
+      "sha256": "a082f40c49169d7b73b34b5f367a598a16a0b229bb1e293233a5daa0637bbf9d"
+    },
+    {
+      "path": "docs/核实记录/29-遭遇重大打击之后.md",
+      "bytes": 6797,
+      "git_blob_sha": "0f575b196481cff615408e6b41bfc0b9c6f3c5ca",
+      "sha256": "32e5c63decb366e83f5075aac9ad4c980cb34e0fd8ebe91cbd802e73869ac709"
+    },
+    {
+      "path": "docs/核实记录/30-上学以后的孩子.md",
+      "bytes": 7367,
+      "git_blob_sha": "6040e4627d5c37b5cd1221df62aff0ec3a994b08",
+      "sha256": "bbfc2b41ec4cd6e9b17096e9421326ef40c21dbcc6dff57bbf7c22e831ee0845"
+    },
+    {
+      "path": "docs/核实记录/32-出国留学.md",
+      "bytes": 13281,
+      "git_blob_sha": "b841d71263be9fef6d8c8f43bfbdf4a3855ca87a",
+      "sha256": "f531beca544f7bdfeaa0c402e726d6ba7e85b11665023cd65469077c1c9ce5bb"
+    },
+    {
+      "path": "docs/核实记录/33-残疾之后怎么活.md",
+      "bytes": 15973,
+      "git_blob_sha": "e48b1c2ab0d20f69d9526004e6e597173f2226ec",
+      "sha256": "cdcc8fc14a8f2d7fc34df1879205739bfcbeaf2fd3fbdea4122b2f171c116b8c"
+    },
+    {
+      "path": "docs/核实记录/34-家里的常备药别吃出事.md",
+      "bytes": 9243,
+      "git_blob_sha": "429368b65fc8856e6eeb509bb0bbaf9a5ba32dd8",
+      "sha256": "68b74c8f64404ad91a440976a026489025b41d761e9bbd55ca3b0fe723723f40"
+    },
+    {
+      "path": "docs/核实记录/口径变更-受益人分四档.md",
+      "bytes": 5339,
+      "git_blob_sha": "c28789e3e806795e19b4dc1cf5bd3b4c9b1778a9",
+      "sha256": "94e1a66a0fdb341b1efd580b13d310da3c1e201a364c76186f871798200fadfe"
+    },
+    {
+      "path": "docs/核实记录/性取向相关条目.md",
+      "bytes": 8257,
+      "git_blob_sha": "7d29ada92dcec35510e679f097a7b3bfde6ade3c",
+      "sha256": "3f3b4b623267f793a753ec69f1b3515a1a4d8233ea3922e928a8d711765318df"
+    },
+    {
+      "path": "docs/核实记录/排查-只给禁止不给出路.md",
+      "bytes": 5005,
+      "git_blob_sha": "2cc1f860c9c168414c431081da783ee82a8ae0fa",
+      "sha256": "4a6a639593cb2ac63c3f86b8a7f396c68e3c36f660b288517cc76a74c313c607"
+    },
+    {
+      "path": "docs/核实记录/排查-备注里的文献链接.md",
+      "bytes": 3914,
+      "git_blob_sha": "7739465b551ec569c9a5d9335f6e34249d808193",
+      "sha256": "5095224e5638a012eda9a0698f1ea8e42bd6fd724c613c16abc5c5f3306b24ba"
+    },
+    {
+      "path": "docs/核实记录/排查-说人话栏与收益栏对齐.md",
+      "bytes": 7182,
+      "git_blob_sha": "f9cd791ea8507e9c04c0453389dc915a17af3546",
+      "sha256": "f82748cce97fa76e31e8b38a33a15b24c267a1b81c2da8db969ebcddf5658c82"
+    },
+    {
+      "path": "docs/核实记录/新增-第31节十八岁之后有哪几条路.md",
+      "bytes": 28181,
+      "git_blob_sha": "aeac1f776ac909ec914c65e2ab08ec7fc250baea",
+      "sha256": "c81f5445a26a7b7befb37e522b257eb47e81bb3bf93458ebeecaad361aa168b2"
+    },
+    {
+      "path": "docs/核实记录/追加-AI换脸拟声.md",
+      "bytes": 5860,
+      "git_blob_sha": "d73bdb11f5904ef0e6926420d63dd0e6983b1b75",
+      "sha256": "745535d24eb2883a7fd654bdd380b87119661109dc36f8244a1955b114644489"
+    },
+    {
+      "path": "docs/核实记录/追加-issue28八处补来源.md",
+      "bytes": 5877,
+      "git_blob_sha": "c8cc302614801e3ca7c0ca4d079f10e12208abbb",
+      "sha256": "80370c14cd85b90b3e3ec71508c8ace42e41a57e4a247e88478a6f739378d133"
+    },
+    {
+      "path": "docs/核实记录/追加-issue30国家赔偿免责与录音拍照留证.md",
+      "bytes": 4127,
+      "git_blob_sha": "ddc517a8d446fe19feb9030a2fa60868f1c5e7ec",
+      "sha256": "209c2861ee6d35acb5c94468e7ad2588b220b21664b2b061da13daac36732da0"
+    },
+    {
+      "path": "docs/核实记录/追加-issue31情绪疏导家暴与职场欺负.md",
+      "bytes": 5985,
+      "git_blob_sha": "5904b25ec823e26d7821573033060f36df9247b6",
+      "sha256": "24831fca3d5122c5557b8a672683de947215c0f9cd87b90a42134b69f98bdb07"
+    },
+    {
+      "path": "docs/核实记录/追加-issue37职称.md",
+      "bytes": 4941,
+      "git_blob_sha": "6e2dd6fca079ce30300f82987255cc91bbdbdc63",
+      "sha256": "4752321e3d2ba5050848b9ad8fe0a9e606edf0f3a6a5d7ca75ce16e135937f85"
+    },
+    {
+      "path": "docs/核实记录/追加-issue41境外投资渠道.md",
+      "bytes": 3926,
+      "git_blob_sha": "02cc70652a8113f09a26e9ebdc74fd7e2b65b4b5",
+      "sha256": "4a358753e63d64ed684cb511ea88948a1480a6db60fd4a0fe479ff1942a44003"
+    },
+    {
+      "path": "docs/核实记录/追加-issue44降尿酸药的选择.md",
+      "bytes": 4439,
+      "git_blob_sha": "174c9b83c0d647aa0b7209015fdb2c20b20ea758",
+      "sha256": "8cac127d71389241e9c8263cb8a07894bddff7ceb697c5979db53db0bbff48b3"
+    },
+    {
+      "path": "docs/核实记录/追加-issue57约会安全.md",
+      "bytes": 3575,
+      "git_blob_sha": "e6759ff00fb92829b462884dda3d1b8665a3b13b",
+      "sha256": "341814065b657be614667670b21aeb383ba9160fe7f1a0a902b74f5fe0ecb1ff"
+    },
+    {
+      "path": "docs/核实记录/追加-issue60给个人干活被欠钱.md",
+      "bytes": 5024,
+      "git_blob_sha": "609fff30f2663c3b748497de37aee4c3c3220815",
+      "sha256": "3e1f88ad87fce985c6224b8f429e9f5bc9837d1a492d2e74a6fd59bf5077c10b"
+    },
+    {
+      "path": "docs/核实记录/追加-issue61推理问题.md",
+      "bytes": 3285,
+      "git_blob_sha": "6e13926a2dec78236cf9c2994877b218aace0e9e",
+      "sha256": "f73a113d3ebf009b384a56ff635be012ed5d5442161fac268c130707b1be986f"
+    },
+    {
+      "path": "docs/核实记录/追加-issue64AB贷与按指印.md",
+      "bytes": 13313,
+      "git_blob_sha": "b68eefbd1165ac94c797e9797e627cfe1bd579bf",
+      "sha256": "ad24737d5029786981970d5d382cbe79896fdc6e1cc76856408e877ba6c0f6a7"
+    },
+    {
+      "path": "docs/核实记录/追加-issue64创业骗局.md",
+      "bytes": 7706,
+      "git_blob_sha": "c7624ed17b413f2316c010a14e127775bfc9ffdd",
+      "sha256": "f9b1e126ebcb4f350f6c29396a515c19a88927af463007de66394d68041a3366"
+    },
+    {
+      "path": "docs/核实记录/追加-保险六条.md",
+      "bytes": 6840,
+      "git_blob_sha": "fdf6b2ac302d37ea9b9b1345309528247f41f891",
+      "sha256": "5610d3ec03a7941ad04012efbcc0f40167fbd1a9515d6f97d1e5f7767e6c8eeb"
+    },
+    {
+      "path": "docs/核实记录/追加-免责条款越界排查.md",
+      "bytes": 12720,
+      "git_blob_sha": "44b79cde6a0a8f95855f139fa6449e141e72c562",
+      "sha256": "0cc137d9dc3b53debdb057615c2109efd74ee5821296bd5a633b33a5bf39e45e"
+    },
+    {
+      "path": "docs/核实记录/追加-养不了孩子的合法出路.md",
+      "bytes": 5172,
+      "git_blob_sha": "073dd28dddd46d38fc24b570ca4f1f3ab86f0651",
+      "sha256": "685e982e7409f78d8cd5b00c7ab16ca28d08fe42454920e428f9b1b2ed2e3cbd"
+    },
+    {
+      "path": "docs/核实记录/追加-养狗打疫苗和登记.md",
+      "bytes": 4394,
+      "git_blob_sha": "a35fe3ab2a8c683a91b1971d593190b6a06eb3d6",
+      "sha256": "9618ee95f159262994c7744e25c4c496ce2207799d77815ed837d096d3f75c93"
+    },
+    {
+      "path": "docs/核实记录/追加-养老诈骗.md",
+      "bytes": 8400,
+      "git_blob_sha": "246dac21118bb11e299788576a1aa18b16e72ac0",
+      "sha256": "f7606d0dc5e608abf3089382db6491d47b74a76f44e6a4b8b48e46bf3407d1ea"
+    },
+    {
+      "path": "docs/核实记录/追加-勃起功能与嫖娼.md",
+      "bytes": 8461,
+      "git_blob_sha": "8031eaeeffc4c2fef77d37a1fcf257fbbd3fd7de",
+      "sha256": "f9e1e116a0d22a79defe3c20a9e832d60a44f07f721876ad5e74860b79f66ebe"
+    },
+    {
+      "path": "docs/核实记录/追加-十条补缺.md",
+      "bytes": 12812,
+      "git_blob_sha": "e1f3b5d5897a339bb947e134357b51b0abf6073e",
+      "sha256": "e80b23cbd5e2f4e6655dfdd40d1a51bf720c2b6a69c20fcf5aa58e775a8003f2"
+    },
+    {
+      "path": "docs/核实记录/追加-午睡时长.md",
+      "bytes": 5587,
+      "git_blob_sha": "3faec0da42057c28c43d18c52930ae7e10b3582e",
+      "sha256": "ee61301b63d26394baca7f6656919af6ce4602311f91b79f2a1b66fc348c9a43"
+    },
+    {
+      "path": "docs/核实记录/追加-卖器官.md",
+      "bytes": 11599,
+      "git_blob_sha": "05fe0dae0443e8dd9b083dbaa96a1a159831d673",
+      "sha256": "394ad06e161dc71daf665ee59ad4ddc454c4f4d4f648ce2240459c9100f348de"
+    },
+    {
+      "path": "docs/核实记录/追加-后循环卒中夹层头痛与中暑补液.md",
+      "bytes": 7669,
+      "git_blob_sha": "cf650f61a145e49223339a2b21cfb85d09bc5f2e",
+      "sha256": "4904853581a82c58083186dfa75c1bdfa4435916fc947627fcea7bd68ac53b3c"
+    },
+    {
+      "path": "docs/核实记录/追加-和机构打交道.md",
+      "bytes": 11872,
+      "git_blob_sha": "00b857823d3003b833cb4d2bfafa57a15e91f4de",
+      "sha256": "a19bf052ae689e06950aecdcea17dad48aae354a13f09552dcbb79b3811a4506"
+    },
+    {
+      "path": "docs/核实记录/追加-喝茶的霉菌毒素与绿茶提取物.md",
+      "bytes": 3200,
+      "git_blob_sha": "820d5d2d624f3e046bc0ed908ea2fea9fb6702df",
+      "sha256": "9aee91f3c9726aba17001fd56765bea6ef7db94b54f9f0618d05934ea21ac60e"
+    },
+    {
+      "path": "docs/核实记录/追加-回填十二处法规原文.md",
+      "bytes": 8962,
+      "git_blob_sha": "7e961e8b0f8f5bcceda1d07ab3a1d9b25395137f",
+      "sha256": "2dabf3389f21e902cdaacfcbad6d3ad5f4bced5afc37614ab6328ce125599da1"
+    },
+    {
+      "path": "docs/核实记录/追加-回填统计急救与文献TODO.md",
+      "bytes": 10183,
+      "git_blob_sha": "ad0fc6334791d4175e467eedf5e44287fe4f2302",
+      "sha256": "d64470906981e0e840961da0e7ea49329f945e3c7dcd23c7cba2354706644670"
+    },
+    {
+      "path": "docs/核实记录/追加-奢侈品收藏与十八岁路径.md",
+      "bytes": 14698,
+      "git_blob_sha": "d4594c07f884dbd4e026952c309266bc28efc592",
+      "sha256": "2c27fcec0c36979ac728e2774cf44c6302fdf0242ee2c89d6a4e8f7e61c3b982"
+    },
+    {
+      "path": "docs/核实记录/追加-家庭应急装备.md",
+      "bytes": 11709,
+      "git_blob_sha": "42412944abb1189cdc3aac93d9fdf7f1d29cd508",
+      "sha256": "50695e53bf21b770b54eb33d85697b84513597fa860b4eb50e5ae87ad1f42193"
+    },
+    {
+      "path": "docs/核实记录/追加-尿酸结石与胆囊结石.md",
+      "bytes": 14917,
+      "git_blob_sha": "66d51d7857af8de02276c78590f6a4e68b08c00c",
+      "sha256": "fc753fe17731f83a4fc06fb7ff5af77ae351ee09e53308521687bd6be320ae63"
+    },
+    {
+      "path": "docs/核实记录/追加-幼儿屏幕时间与近视并发症.md",
+      "bytes": 6870,
+      "git_blob_sha": "ced9f4f4fa3398ec4b06e9bf06d845cc1d3c26cd",
+      "sha256": "6a3bbec0904853f8a4e286a5c3bf6dfb23948c814c8f91d4877c5aa85b221518"
+    },
+    {
+      "path": "docs/核实记录/追加-急诊分诊与伤残鉴定残疾人证.md",
+      "bytes": 15759,
+      "git_blob_sha": "185ab8de4165e4cfee8adc150ef8e7963856ddb2",
+      "sha256": "2c45d47270f2e3bb92799d6a9fbff1f2baee7b44af5e073ad3d0ffc9b986ed80"
+    },
+    {
+      "path": "docs/核实记录/追加-情绪、算命、购物、打人.md",
+      "bytes": 11307,
+      "git_blob_sha": "05d421b22add9c1c785d53f6b9ae1987fc5efb13",
+      "sha256": "7c53fc0e925dad0d5067fd93839ca67e896b340cd603e50a68d927146414d538"
+    },
+    {
+      "path": "docs/核实记录/追加-慢病长护险与个人信息权利.md",
+      "bytes": 6513,
+      "git_blob_sha": "c2a90fe70b1505e78637d7e9b3f05dc82975dde4",
+      "sha256": "cfc420e651e6a7a2825ce5e6a4ef760d6db4cce2f3795572c5e183f70aee8587"
+    },
+    {
+      "path": "docs/核实记录/追加-戒烟戒酒学习与拖延的具体办法.md",
+      "bytes": 28379,
+      "git_blob_sha": "1be7ccad2370115ef54ac343753c73f5ccb247a7",
+      "sha256": "c3eac970c3357a680afd530da2d238985bbd1eddf18446f49a3dcec953f69acf"
+    },
+    {
+      "path": "docs/核实记录/追加-戒网瘾学校.md",
+      "bytes": 2717,
+      "git_blob_sha": "7ee9f3393e8593b83e5300c37be1e9abfb0730e3",
+      "sha256": "5fc5d9ca8de6df9a030ec8272f2c1ad4e61bd32c130f165d4d5ba303c9b86d96"
+    },
+    {
+      "path": "docs/核实记录/追加-拒执失信骗贷与新型毒品.md",
+      "bytes": 10899,
+      "git_blob_sha": "aa5a7e60199e38674a8fd181762b9ecf68ddc200",
+      "sha256": "5f507ea197a8f0d91a1b0e04f4073554e55bc61eefea4a208963ae4a687aa0f4"
+    },
+    {
+      "path": "docs/核实记录/追加-搬运姿势.md",
+      "bytes": 9050,
+      "git_blob_sha": "ad3e0d001a6c109138a407b7dcbdef2c9e4f0ce2",
+      "sha256": "08f8d818c508b0b5b065548909a2bb595188014bf5f412296048a4dae8ed86e0"
+    },
+    {
+      "path": "docs/核实记录/追加-攀比与别人的评价.md",
+      "bytes": 8798,
+      "git_blob_sha": "4d403e94af63480e64bbb9b188476bbca84a19dd",
+      "sha256": "7c088f30af021697b91584e0df50e4fb978cc492dbd9b9c33597aa731d35e2e0"
+    },
+    {
+      "path": "docs/核实记录/追加-早引入花生防过敏.md",
+      "bytes": 6385,
+      "git_blob_sha": "f86eee5d9deccfafa8bfeba8ef28e79057003ddd",
+      "sha256": "b426ac8c8c4cf9ce3f4bbc98c36f2548aaf395b0747279605e1a0ee27e53dd73"
+    },
+    {
+      "path": "docs/核实记录/追加-早餐与进食时间.md",
+      "bytes": 11617,
+      "git_blob_sha": "5a461067a1af2287c8a681015e2a32833f1fa474",
+      "sha256": "622088ace38e73ea1ca39de26517b7d79bbfb5fd9818aa0e7249c6ce19f3d9f0"
+    },
+    {
+      "path": "docs/核实记录/追加-正当防卫.md",
+      "bytes": 7838,
+      "git_blob_sha": "2f58454b216fbb66ddf757ab8faba97cd54528e0",
+      "sha256": "a1b05f38345fffb6aba41f9730c97448cdf5e8928a6524e2003474e384b8cdbe"
+    },
+    {
+      "path": "docs/核实记录/追加-没有亲人朋友时怎么办.md",
+      "bytes": 6069,
+      "git_blob_sha": "8796f860f8b5a76f8c3ad21286f52f9ba5a1354e",
+      "sha256": "fdd2d2ac3367225f3f52ab86452ac4d82e3cad88f42d3010cf55c3220e31971a"
+    },
+    {
+      "path": "docs/核实记录/追加-泄愤式极端暴力.md",
+      "bytes": 12690,
+      "git_blob_sha": "0965b12bae37bd180111ea854a38e35903bf2438",
+      "sha256": "e550fff7c585e9c94e64e5e79f5e40952dbdbdb898a5c47978963c237210a5a7"
+    },
+    {
+      "path": "docs/核实记录/追加-熬夜补觉与夜班.md",
+      "bytes": 19227,
+      "git_blob_sha": "1df6ed80bff5c538e1c2cc218baa280706e363ea",
+      "sha256": "334609b862b1fc86078d26147e4090c86df46bece6027e1f03d470073b6e7b84"
+    },
+    {
+      "path": "docs/核实记录/追加-燃气毒蘑菇车险预付消费与养犬.md",
+      "bytes": 8016,
+      "git_blob_sha": "87b3956f62f9bccde18e6bafee962fb6ec5e9436",
+      "sha256": "43fe9c556d07c98d9e4ab72ec299a9d050282eea970179c8a8866db4b9ad57df"
+    },
+    {
+      "path": "docs/核实记录/追加-牙科.md",
+      "bytes": 6164,
+      "git_blob_sha": "5469659f0a2b8cb6c5a38991bdda03e950d72acd",
+      "sha256": "fa358e79c8e0fdcc5da68574b5ef0824c64d213c626e4d8d780229d46ba7e687"
+    },
+    {
+      "path": "docs/核实记录/追加-献血.md",
+      "bytes": 7491,
+      "git_blob_sha": "6c6e9bb9faf96963f2b62dd9b6954f98442b338d",
+      "sha256": "5215f9e9c394c50f7161a847547f273aa079ee27fc4cdbb00eca35ba4415c4a5"
+    },
+    {
+      "path": "docs/核实记录/追加-电动牙刷.md",
+      "bytes": 3412,
+      "git_blob_sha": "36a6c17bc916263f476a39cf37ccfb7df12aed30",
+      "sha256": "d0dde20f30e0d6aef27731aef37cc836975285a4f2da970c7abbcc3554ff7902"
+    },
+    {
+      "path": "docs/核实记录/追加-眼中风血栓硬膜下血肿与血尿.md",
+      "bytes": 8495,
+      "git_blob_sha": "3fea0370eb04c10c845a0da4bb844b41c1b8e489",
+      "sha256": "b65735549c23c77c6ea0323619df8e68041148fdd09b7232fab2543c8bbbc983"
+    },
+    {
+      "path": "docs/核实记录/追加-社保转移接续.md",
+      "bytes": 9213,
+      "git_blob_sha": "6361822c979cfb2637e94c559f4e69922fb96508",
+      "sha256": "e68b291e4ea4f096d4037630e48558e5f890ae3686b792df96759346f7d4733d"
+    },
+    {
+      "path": "docs/核实记录/追加-窗户破伤风二手烟公积金与猝死工伤.md",
+      "bytes": 6228,
+      "git_blob_sha": "7a744ea25c21ae274f7ab9830ea543f41fe82732",
+      "sha256": "937bd317f52093b974572bbaf694ad37c75131a587716bc76116f8f7566d10c1"
+    },
+    {
+      "path": "docs/核实记录/追加-第10节伴侣治疗.md",
+      "bytes": 9109,
+      "git_blob_sha": "098764a9451f44738fa5c80db5dff64c04ae09d9",
+      "sha256": "3b4b210e2d2d02c61b52e8a14aa4cf52258e862d503a85d5eaf108710df034aa"
+    },
+    {
+      "path": "docs/核实记录/追加-第10节父母出资与夫妻共同债务.md",
+      "bytes": 7109,
+      "git_blob_sha": "bf922dc1baf0f92f525583c904823d2e44a92513",
+      "sha256": "efa789e9ae1a7bb9fe14daa61e03226a15579d403ee1dd89013b93fc3735d96a"
+    },
+    {
+      "path": "docs/核实记录/追加-第11节白帽子与漏洞报送.md",
+      "bytes": 11983,
+      "git_blob_sha": "5b627ab6d6fb1e6ef2955768b21ac67c39f2285e",
+      "sha256": "8c477c456209f6abd2b1cb8bf335084862c9a45bc64c3cd8261e3b79f1ed80d5"
+    },
+    {
+      "path": "docs/核实记录/追加-第11节跳广告工具.md",
+      "bytes": 11973,
+      "git_blob_sha": "c0e4b89e76b188362e1354153b14b723e036329e",
+      "sha256": "b9c9e3f26ce120bfe4b93518db76bf2f57ef2938915acf1d80b884ab4c59a9b5"
+    },
+    {
+      "path": "docs/核实记录/追加-第12节注册报税与涉税诈骗.md",
+      "bytes": 10461,
+      "git_blob_sha": "357a3c0c059026c1e1da6cc0920e671230d1ff55",
+      "sha256": "6d49c3ad827b54d3e9f6821971f06a9a0373c5a03905108ada421d1cadd6211c"
+    },
+    {
+      "path": "docs/核实记录/追加-第13节婴儿噎住与心肺复苏.md",
+      "bytes": 11539,
+      "git_blob_sha": "cfb6dd0cc0634bdf75ceedd1cb082cc49602c3dc",
+      "sha256": "4b7afb08c25c9fbfb449f459992f1fbdbc5ee98c261e92aafc63a1dbcd8efb2e"
+    },
+    {
+      "path": "docs/核实记录/追加-第15节与病历条回填.md",
+      "bytes": 5601,
+      "git_blob_sha": "d4c3d396a4a47071d6e334b3c8ee3a879e656758",
+      "sha256": "a094a2a49701534c90ef6a1c11e7d1bdc856c8f7b4e7adf4e501f3968b1ec86d"
+    },
+    {
+      "path": "docs/核实记录/追加-第17节白内障手术.md",
+      "bytes": 7943,
+      "git_blob_sha": "68914a45c5bb3f99a5f553b932cd60c34e061319",
+      "sha256": "fc26fb79cac5b9f07401cca00317496f5c859070e14b13fc3400175e67724f0a"
+    },
+    {
+      "path": "docs/核实记录/追加-第17节老人遛狗.md",
+      "bytes": 6912,
+      "git_blob_sha": "be80ae5d7b495329ac0eeb82b9294148d8ae8462",
+      "sha256": "a7e071f2998af4729ea3293decf5627ed3bb58b6d66a6b2acd82727d1d644bc0"
+    },
+    {
+      "path": "docs/核实记录/追加-第19节离职证明与补偿个税.md",
+      "bytes": 9003,
+      "git_blob_sha": "f79032b2f807d5c53a7663174582a14ee4627c7a",
+      "sha256": "252e84f7ac2611542778b6250ade3f24fb27329c904b440d01a91f0c297b5a7a"
+    },
+    {
+      "path": "docs/核实记录/追加-第1节冰面量厚度.md",
+      "bytes": 5343,
+      "git_blob_sha": "5bdebdc8224072d3e6f92ba83e6791af9b546f21",
+      "sha256": "0bdbb0601aaf0b6330a29e059a29adde31350c37e33ed9cf5fad208a58d2b400"
+    },
+    {
+      "path": "docs/核实记录/追加-第1节失控放射源.md",
+      "bytes": 12713,
+      "git_blob_sha": "7a42bee9c6d869cfbd3a95626a96fa7d620e641e",
+      "sha256": "04f334bdeebe8f051fc6669e114fe09c659fe82b7deca3feb7ed4a8b8ceed011"
+    },
+    {
+      "path": "docs/核实记录/追加-第1节骨质疏松筛查.md",
+      "bytes": 10796,
+      "git_blob_sha": "fec7ee9f0faf9c49df359eb9d1298d0a075726fc",
+      "sha256": "33b94d7ef4a68caea7c5e6fa7d7b0cab0e4009c6d8753ad584fc0201c2cafb42"
+    },
+    {
+      "path": "docs/核实记录/追加-第20节妈妈吃素补B12.md",
+      "bytes": 5775,
+      "git_blob_sha": "1652e81f8019d5fc263daf3ff2e50b5742f39d10",
+      "sha256": "5ebc00b89cf2e4827768caaf12029b7542ef16c1272b00e1eba7d59c7088b21e"
+    },
+    {
+      "path": "docs/核实记录/追加-第20节新生儿黄疸.md",
+      "bytes": 8663,
+      "git_blob_sha": "c3fb6f8d607c7ca547e5c34421383e56062f2e98",
+      "sha256": "058ea0522b73b582f3cb39affe44a09ae16ddb28790ee3663f3c29569f8a59fc"
+    },
+    {
+      "path": "docs/核实记录/追加-第21节境外用卡.md",
+      "bytes": 9400,
+      "git_blob_sha": "9560bff29ac7666787d260c953f6ed18ac2bae4c",
+      "sha256": "80b62b98791b3d43dc89fcb84483f325dbae227301ec091f7efcaad520ccdfcc"
+    },
+    {
+      "path": "docs/核实记录/追加-第25节人没了当时怎么办.md",
+      "bytes": 7904,
+      "git_blob_sha": "dd664ab185e8ff755aadfe9cfffe336498e13d12",
+      "sha256": "77e8d6f8831c6abf7d8b870f31a73adda4c8f696ac0ec1161c9d158fc8d4ae69"
+    },
+    {
+      "path": "docs/核实记录/追加-第26节做平台.md",
+      "bytes": 12379,
+      "git_blob_sha": "973275f648da1ea56dfddd09865081871d931cbe",
+      "sha256": "dcd1995d053b44a2a0a19863a28ecc134faf063e8cb3387f138b4c5bbabedd77"
+    },
+    {
+      "path": "docs/核实记录/追加-第27节孕期养猫弓形虫.md",
+      "bytes": 8792,
+      "git_blob_sha": "3876cd48b67dc8770fe8eba70c809a4929a1fc45",
+      "sha256": "8d15eda70be03a51abc36202cba608dd729de2b00bbeceaca9c2f38fd2457747"
+    },
+    {
+      "path": "docs/核实记录/追加-第2节养狗.md",
+      "bytes": 7961,
+      "git_blob_sha": "b0f6c79e284da5ebf3abe7886db625a69344534d",
+      "sha256": "0813ee249113004c78ea63fbadebaf5e6b9c523ea23e6aba89da2a1fd71b289d"
+    },
+    {
+      "path": "docs/核实记录/追加-第2节室内空气.md",
+      "bytes": 5124,
+      "git_blob_sha": "0b0b1b753a9bd37c398a97ce423ec678356ba70c",
+      "sha256": "a046d9c3e60e5d78028b5bf7cc239d30940f864047a80e78f0536b6c3288c59e"
+    },
+    {
+      "path": "docs/核实记录/追加-第2节绝经激素治疗.md",
+      "bytes": 8797,
+      "git_blob_sha": "50dc63f422f591b2e951baa3523902f06ba35239",
+      "sha256": "73ca4063c353ea1ee55c775c9bbbeef8c7d5a49a189e23808f0a81d42ca5dab6"
+    },
+    {
+      "path": "docs/核实记录/追加-第30节管孩子不打和养育课程.md",
+      "bytes": 15897,
+      "git_blob_sha": "a4c11463ef41f0c6bf5c942d95f9c5ce11c93cb6",
+      "sha256": "ec0163bed7dfb64765e260017b24fbc9866c7f24cb9365e55bdb2c139ff86926"
+    },
+    {
+      "path": "docs/核实记录/追加-第31节远程给境外雇主干活.md",
+      "bytes": 10274,
+      "git_blob_sha": "749ff01e91d49a90b066d55889b0a87e74ceac56",
+      "sha256": "c384802859099e547e7014e3fafd7b56218aed760e3cd280a568b04fab6a9cb9"
+    },
+    {
+      "path": "docs/核实记录/追加-第34节过期药与相互作用.md",
+      "bytes": 8527,
+      "git_blob_sha": "e4062808aba4115054e488e8658551d1c57b5e59",
+      "sha256": "b885f680757fae564309444c086929792962ddb4978aa92485fa4f528197c0d6"
+    },
+    {
+      "path": "docs/核实记录/追加-第3、5节.md",
+      "bytes": 9250,
+      "git_blob_sha": "80fa6cf339edd64a1f57304490aff97327d2b4f3",
+      "sha256": "2312b710edc240532a6bfc38ffb0e388a2477d938e5d0b714e099877396dbffd"
+    },
+    {
+      "path": "docs/核实记录/追加-第3节痛经.md",
+      "bytes": 7993,
+      "git_blob_sha": "9cb310669282b0773c00e1b5f74c58e74b358e10",
+      "sha256": "258c749ee0188631643b444ca3cf33ce38e953718e14cb837155394c981b87e3"
+    },
+    {
+      "path": "docs/核实记录/追加-第5节借钱看年化利率.md",
+      "bytes": 7224,
+      "git_blob_sha": "05f46ba4e46bf994c97355d684dbeb77c6ea6e6f",
+      "sha256": "ff996c9e7302807ac9b2d03db9692fe319e0a3c4202c75a9267b16d80ee2ae70"
+    },
+    {
+      "path": "docs/核实记录/追加-第5节炒股的两条行为账.md",
+      "bytes": 8283,
+      "git_blob_sha": "2e5529097a4999a46b884c3269265f50632bef9c",
+      "sha256": "4f866819ae7862d0be7532bfdd3892c7ce81dddc411c5c8ebfd77b8e08b45060"
+    },
+    {
+      "path": "docs/核实记录/追加-第5节职工养老算账.md",
+      "bytes": 5841,
+      "git_blob_sha": "ac9db2f444703c7753c1114fb2fe8014e62f5185",
+      "sha256": "134ec1f05c8bc2b1e67e11da59f0e019fce27a7ad5327236a117585250fab5d7"
+    },
+    {
+      "path": "docs/核实记录/追加-第6节通用体检套餐.md",
+      "bytes": 5759,
+      "git_blob_sha": "a785db18f95b688ac90a0d1c5e4e6909a6c22a82",
+      "sha256": "f7dd8d94ce5acd69d8678e04b23a570cf05e670853ecabc4bf406a35e274f2e4"
+    },
+    {
+      "path": "docs/核实记录/追加-第7、8节.md",
+      "bytes": 19051,
+      "git_blob_sha": "6f4feac3e9bf744be721334c52939b3f73c2b529",
+      "sha256": "f47977991032d2f7096351e139d8e3ceba3d037cd1d91bcca142a9c5da5ece72"
+    },
+    {
+      "path": "docs/核实记录/追加-第8节被指控与被诬告.md",
+      "bytes": 10584,
+      "git_blob_sha": "30e9784dd7094f63b17c00a91f157854de9fe2e0",
+      "sha256": "0deaf687a2aab5064e71e9d821f2b6d05f2b13097910aa262a10cf59dc956303"
+    },
+    {
+      "path": "docs/核实记录/追加-第9节境外信息只看不转.md",
+      "bytes": 6420,
+      "git_blob_sha": "b764838919e4836392ea892862dfd672a60dffb4",
+      "sha256": "5141226ec9182c28c0bb74aca748bf42eb7f68a1e20d844ad42899b202315a6f"
+    },
+    {
+      "path": "docs/核实记录/追加-第9节著作权与同人.md",
+      "bytes": 15401,
+      "git_blob_sha": "778ac7e9bbbd7adc0972fabfaf3d9d8d6560552c",
+      "sha256": "c0389ba94003379563c7601dfb090c68b3fcc928c02ed68842da1f7ea8934b53"
+    },
+    {
+      "path": "docs/核实记录/追加-第9节薅羊毛.md",
+      "bytes": 12315,
+      "git_blob_sha": "64a44c2e7c80b7f5a949af4660b042465c4be65c",
+      "sha256": "48b7a9ac881b6b4b15e6e17e1b177ba74a80c56a5bbfee0facb069d8c07727b4"
+    },
+    {
+      "path": "docs/核实记录/追加-职业病与化学灼伤.md",
+      "bytes": 9051,
+      "git_blob_sha": "e4f0a510f692ff4988df52fc8e229a93546d8ba4",
+      "sha256": "3e6bb406b92f7930640c9c9bcdfb06faba58c1f1ef7362fe8ce667c0ec4fffbd"
+    },
+    {
+      "path": "docs/核实记录/追加-自杀的后果.md",
+      "bytes": 17323,
+      "git_blob_sha": "1425d68b12ef10f952f8b23bb90852c7b46ae86f",
+      "sha256": "0b6615d2af1972b804b3e8835a095df071448e694e54121520ae07a1c7c95c4b"
+    },
+    {
+      "path": "docs/核实记录/追加-自首与追诉期限.md",
+      "bytes": 7070,
+      "git_blob_sha": "c371a89fb133da81deafeb584b832cdcb5caeda2",
+      "sha256": "316c7cdde4c52ab15c87b8ae53e98fdbcdb2b88a6985825f3f036ea94fce61ad"
+    },
+    {
+      "path": "docs/核实记录/追加-虚拟货币.md",
+      "bytes": 7938,
+      "git_blob_sha": "9cb9591c1a6b26ae55f6cb6681be63df8bd5cd49",
+      "sha256": "24aee212b2b5d2d938266e823107caab868ea7b409878b3a8dcc7dd5e9975e5b"
+    },
+    {
+      "path": "docs/核实记录/追加-被网暴之后怎么办.md",
+      "bytes": 5482,
+      "git_blob_sha": "489ab27c416374a52ccb9fdd335a313363479a77",
+      "sha256": "5d55e0c2adf3e3fa31b948f2b1578d44680716057968ca194d029bfa20cd5be0"
+    },
+    {
+      "path": "docs/核实记录/追加-要不要死记硬背.md",
+      "bytes": 4525,
+      "git_blob_sha": "ea755e56d5f754b7d07e322ce7b560036a10a74d",
+      "sha256": "b278d4c33512f545f5e1b09e6c4c400cb05da8e1a5ff8145a841592dac35ffe6"
+    },
+    {
+      "path": "docs/核实记录/追加-角磨机.md",
+      "bytes": 11188,
+      "git_blob_sha": "2b9b4e6d08d70af03ef7c1f3f1df89f4e279bd2d",
+      "sha256": "b3c3c17cb2826e7e3d96092efcbeb9e9ad322d63a62e9dc321207b0411aca61c"
+    },
+    {
+      "path": "docs/核实记录/追加-读书还是打工.md",
+      "bytes": 13198,
+      "git_blob_sha": "5cd520cb26ff9c07c9bf1c5beb6aea1b4b5ef022",
+      "sha256": "6b1de75f19afc8642a092bdeedc1622a893143aed6424b3b09fd6d4621eebb4f"
+    },
+    {
+      "path": "docs/核实记录/追加-进货假货与图案版权.md",
+      "bytes": 8533,
+      "git_blob_sha": "505cc4789b9e8d35b327d36ca18dc589f064b4bb",
+      "sha256": "7af3bcc4eddae1cd551a1bc461fce8aacd76c2e399c920e49e38ad226677dc4a"
+    },
+    {
+      "path": "docs/核实记录/追加-针对孩子的骗局.md",
+      "bytes": 4979,
+      "git_blob_sha": "f691873d92e5bc9b0eb98dd2714ebbe168c8c5af",
+      "sha256": "4f1eda009cd62d696ff8416505f23b1e4e7c9f5401a5dcb0bffef7e5147dd2bb"
+    },
+    {
+      "path": "docs/核实记录/追加-门窗锁防盗.md",
+      "bytes": 8937,
+      "git_blob_sha": "81242f22fbec843e1be1626332d656facffc1cf7",
+      "sha256": "dbd4232de35a4e6733aceeb1f60f2734ab3883ec1c615f7fce609d963082eb82"
+    },
+    {
+      "path": "docs/核实记录/追加-防身器械.md",
+      "bytes": 8168,
+      "git_blob_sha": "62615d2dfc39c9022f4407879d2a91d1125ae8ce",
+      "sha256": "4cb37962b64705ab2843a6e2bf437944ab4a55d945892a31fb94b44198b93f9d"
+    },
+    {
+      "path": "docs/核实记录/追加-陌生人出事该不该上.md",
+      "bytes": 17370,
+      "git_blob_sha": "7f37a0e48701e3650e03cd9e1c761d69941b13f8",
+      "sha256": "13f90a8db7253f89d825211959042cdd7790795022cc399b5f9fde868e6628f3"
+    },
+    {
+      "path": "docs/核实记录/追加-青光眼急性发作.md",
+      "bytes": 4941,
+      "git_blob_sha": "0b0eaeb4529b38370ce0dd3286b62c45f2683210",
+      "sha256": "f13453188b28c644256ee72ba652896464f6f68e133451ba6495036dc0c0aabc"
+    },
+    {
+      "path": "docs/核实记录/追加-食品安全.md",
+      "bytes": 16164,
+      "git_blob_sha": "3e93dab5334e6b40a53c0bd2fca67a9151751466",
+      "sha256": "140ef3d1826a7c266c1041fe7ec98a2f80282b10d624380399525c81d1db7e2c"
+    },
+    {
+      "path": "docs/核实记录/追加-骗保.md",
+      "bytes": 7771,
+      "git_blob_sha": "8fad937fea62e61d05fe68cd032630b3271dd3cf",
+      "sha256": "056e472859d5494d01398d1edcc9a9ed3f5e6d96aa4d7461bd2704da335464a9"
+    },
+    {
+      "path": "docs/生物钟和夜班.md",
+      "bytes": 11181,
+      "git_blob_sha": "d4390bf87de517f513094a6f7d737bd7c5a4e87a",
+      "sha256": "4d0adfd5671486619db9daae4b242540b739537dc6482b19d2c87895fd708a8d"
+    },
+    {
+      "path": "docs/结婚划不划算.md",
+      "bytes": 20347,
+      "git_blob_sha": "c38ca4ae571d9ee5a2980e8f4309fac90745d25b",
+      "sha256": "062137b3415709813df2042c67ae2d16f8c3438f2f7f0ec9e7d5bea5bd7b9cdb"
+    },
+    {
+      "path": "docs/被裁了之后先做什么.md",
+      "bytes": 5997,
+      "git_blob_sha": "85d6986d2f14f4f70a758a96caca2ce2e7a4b632",
+      "sha256": "fc50d80377676b33da9b551ac65193a169b4510b3c07cb922160bbede2db98ac"
+    },
+    {
+      "path": "docs/遇到陌生人出事该不该停.md",
+      "bytes": 8425,
+      "git_blob_sha": "f030a2efb95a9ea29269c0fe3f5591dbf0fafe24",
+      "sha256": "772563494b568e1c2b5763bb6b123fe8aa5df875fd722e9f0acb6bf42ff54ef6"
+    }
+  ],
+  "code_license": "MIT"
+}
