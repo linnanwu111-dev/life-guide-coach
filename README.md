@@ -6,9 +6,9 @@
 
 ## 安装
 
-下载 [Release 安装包](https://github.com/linnanwu111-dev/life-guide-coach/releases/latest)。支持上传 Skill 的客户端可导入 `life-guide-coach-v0.1.0.zip`；包内包含 `life-guide-coach/SKILL.md` 和所需原文。
+下载 [Release 安装包](https://github.com/linnanwu111-dev/life-guide-coach/releases/latest)。支持上传 Skill 的客户端可导入 Release 中的 Skill 安装 ZIP；包内包含 `life-guide-coach/SKILL.md` 和所需原文。
 
-豆包工作界面提供“插件·技能·伙伴 → 技能 → 添加 → 上传技能”，接受含 `SKILL.md` 的压缩包或文件夹。本次安装与行为实测正在进行，结果会写回本页。
+豆包工作界面提供“插件·技能·伙伴 → 技能 → 添加 → 上传技能”，接受含 `SKILL.md` 的压缩包或文件夹。已确认 v0.1.0 能导入、启用并实际读取随附原文。首轮发现检索绕路和未经选择的月度加量、年度新增训练；v0.1.1 已调整先了解后检索、控制输出长度、尊重用户周期与选择，正在新会话复测。
 
 其他客户端按其 Skill 安装方式使用。无法安装 Skill 时，也可以把 `SKILL.md` 与对应原文作为资料提供给能读文件的 AI；这需要自行确认文件确实读取成功。
 
