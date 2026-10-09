@@ -6,13 +6,13 @@
 
 ## 安装
 
-当前测试版为 [v0.2.1](https://github.com/linnanwu111-dev/life-guide-coach/releases/tag/v0.2.1)。支持从 GitHub 安装技能的 AI 工作客户端，可以直接发送：
+当前测试版为 [v0.2.2](https://github.com/linnanwu111-dev/life-guide-coach/releases/tag/v0.2.2)。支持从 GitHub 安装技能的 AI 工作客户端，可以直接发送：
 
-> 从 https://github.com/linnanwu111-dev/life-guide-coach 安装或更新 life-guide-coach，使用 v0.2.1 Release 的 Skill ZIP，保留 references 中的完整原文和行动图设计说明。读到 SKILL.md 后告诉我实际安装的版本；如果当前客户端无法安装，直接说明。
+> 从 https://github.com/linnanwu111-dev/life-guide-coach 安装或更新 life-guide-coach，使用 v0.2.2 Release 的 Skill ZIP，保留 references 中的完整原文和行动图设计说明。读到 SKILL.md 后告诉我实际安装的版本；如果当前客户端无法安装，直接说明。
 
 也可以下载上述 Release 的 ZIP，通过当前客户端的 Skill 导入功能安装。包内包含 `life-guide-coach/SKILL.md` 和所需原文。`releases/latest` 只指向稳定版，未必是当前测试版。
 
-豆包工作实测：v0.1.0 能导入、启用并读取随附原文；v0.1.2 已由其工作助手从 GitHub 下载并报告更新，新会话确实先介绍指南范围再询问方向。运动示例经过追问和提示调整得到周／月／年安排，仍需检查助手是否提前推荐或增加未选择的任务。年度逐步加量和力量训练可以作为候选，但须结合条件、意愿与实际反馈。v0.2.1 新增视觉收尾；具体图片生成能力由当前会话的工具决定，发布规则本身不代表所有客户端均已实测通过。
+豆包工作实测（2026-10-09）：已从 GitHub 更新到 v0.2.1，实际 SKILL.md 文件大小和 SHA-256 与发布包一致。首次咨询确实先介绍指南范围，再询问方向；运动示例经过追问和提示词调整得到周／月／年安排。当前会话的 image_gen 与 image_edit 实际交付了 PNG；中文、条号和条件经过检查，遗漏的署名用 HTML 补排并截图。也实际交付了可编辑 SVG 与 PNG。v0.2.2 明确要求有内置图片工具时先实际调用，不能只因担心错字跳过。以上是这个虚构案例的验证，不表示所有客户端均已通过，也不保证每次无需调整。年度逐步加量和力量训练仍须结合条件、意愿与实际反馈。
 
 其他客户端按其 Skill 安装方式使用。无法安装 Skill 时，也可以把 `SKILL.md` 与对应原文作为资料提供给能读文件的 AI；这需要自行确认文件确实读取成功。
 
